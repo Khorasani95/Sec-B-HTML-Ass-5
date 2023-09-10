@@ -1,0 +1,132 @@
+.header {
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  width: 30%;
+  justify-content: end;
+  align-items: center;
+}
+
+.ptags {
+  display: flex;
+  width: 70%;
+  align-items: center;
+  justify-content: end;
+  gap: 40px;
+  padding-right: 50px;
+}
+
+span {
+  color: #f54748;
+}
+
+.middle {
+  padding-left: 50px;
+  display: flex;
+  /* background-color:aqua ; */
+  width: 600px;
+}
+.side-content {
+  display: flex;
+}
+
+.container {
+  display: flex;
+}
+
+.middle h1 {
+  font-size: 80px;
+  font-family: sans-serif;
+}
+
+.middle p {
+  font-size: 28px;
+  font-family: sans-serif;
+}
+
+span {
+  font-size: 28px;
+}
+.sign {
+  color: #f54748;
+  /* background-color: aqua; */
+}
+
+/* .middle .mid-button1{
+    background-color: #f54748;
+    color: white;
+    font-size: 20px;
+    padding: 25px 10px 25px 10px;
+    border-radius: 10px;
+} */
+
+/* .middle .mid-pic{
+    padding: 80px;
+    margin-left: 50px;
+} */
+.buttons {
+  display: flex;
+}
+
+.main {
+  /* padding: 30px 10px 10px 50px; */
+  display: flex;
+  gap: 30px;
+  padding-left: 43px;
+}
+
+.btn {
+  display: flex;
+  color: black;
+  align-items: center;
+  gap: 30px;
+}
+
+.btn p {
+  background-color: #f54748;
+  color: white;
+  font-family: sans-serif;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 15px 30px;
+}
+
+.pixs {
+  display: flex;
+  margin-top: 19.5px;
+}
+
+.btn {
+  /* display: flex; */
+  /* color: white; */
+  /* background-color: #f54748; */
+}
+
+.ai{
+  color:#f54748;
+}
+
+.txts {
+  padding-top: 40px;
+}
+
+/* page 2 */
+
+.SECmain{
+background-color: #fef5f5 ;
+}
+
+
+.work {
+font-family: sans-serif;
+text-align: center;
+}
+
+.work p{
+color: #f54748;
+padding: 70px;
+padding-bottom: 0px;
+}
+
